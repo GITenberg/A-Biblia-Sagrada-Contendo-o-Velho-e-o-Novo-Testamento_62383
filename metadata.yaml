@@ -1,0 +1,31 @@
+_repo: A-Biblia-Sagrada-Contendo-o-Velho-e-o-Novo-Testamento_62383
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Almeida, João Ferreira d'
+    aliases:
+    - Almeida, Joao Ferreira d'
+    - Ferreira d'Almeida, João
+    - D'Almeida, João Ferreira
+    birthdate: 1628
+    deathdate: 1691
+    gutenberg_agent_id: '51919'
+    url: http://www.gutenberg.org/2009/agents/51919
+    wikipedia:
+    - https://pt.wikipedia.org/wiki/Jo%C3%A3o_Ferreira_de_Almeida
+    - https://en.wikipedia.org/wiki/Jo%C3%A3o_Ferreira_de_Almeida
+description: ''
+gutenberg_issued: '2020-06-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62383'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BS'
+- !lcsh 'Bible'
+- GITenberg
+title: A Biblia Sagrada, Contendo o Velho e o Novo Testamento
+url: http://www.gutenberg.org/ebooks/62383
